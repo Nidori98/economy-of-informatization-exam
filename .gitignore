@@ -31,3 +31,7 @@ data/*.csv
 
 # Отчёты (опционально)
 reports/*.pdf
+
+# Лишние файлы
+Текстовый документ.txt
+anaconda_projects/
